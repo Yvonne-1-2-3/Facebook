@@ -1,0 +1,69 @@
+*{
+    background-color: rgba(227, 232, 229);
+}
+
+.facebook{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:  #1877f2;
+
+}
+
+.recent{
+    font-size: 30px;
+    font-family: "Arial",sans-serif;
+}
+
+.add{
+    font-size: 15px;
+    
+}
+.link{
+    color: blue;
+}
+
+.account{
+    display: block;
+    margin-top: 20px;
+    float: none;
+    position: relative;
+    top: -300px;
+    left: 150px;
+
+    
+}
+
+.new{
+    float:right;
+    position: relative;
+    bottom: 700px;
+    right: 100px;
+    margin-bottom: -200px;
+         
+}
+
+    
+a{
+    color: blue;
+
+}
+
+a p{
+    background-color: white;
+    width: 268px;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-block-start: -2px;
+
+}
+
+.name{
+    background-color: white;
+    width: 135px;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-block-start: -2px;
+    
+}
+
